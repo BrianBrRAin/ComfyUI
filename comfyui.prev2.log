@@ -1,0 +1,89 @@
+** ComfyUI start up time: 2023-11-26 16:28:11.489803
+[ComfyUI-Manager] Logging failed: [WinError 32] 程序無法存取檔案，因為檔案正由另一個程序使用。: 'comfyui.log' -> 'comfyui.prev.log'
+** ComfyUI start up time: 2023-11-26 16:28:11.520639
+
+Prestartup times for custom nodes:
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager-main
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager
+
+Total VRAM 4096 MB, total RAM 16333 MB
+Trying to enable lowvram mode because your GPU seems to have 4GB or less. If you don't want this use: --normalvram
+Set vram state to: LOW_VRAM
+Device: cuda:0 NVIDIA GeForce GTX 1650 SUPER : native
+VAE dtype: torch.float32
+Using pytorch cross attention
+### Loading: ComfyUI-Impact-Pack (V4.30.9)
+### Loading: ComfyUI-Impact-Pack (Subpack: V0.3)
+### Loading: ComfyUI-Inspire-Pack (V0.46.1)
+### Loading: ComfyUI-Manager (V1.1)
+### ComfyUI Revision: 1735 [5b37270d] | Released on '2023-11-25'
+### Loading: ComfyUI-Manager (V0.39)
+### ComfyUI Revision: 1735 [5b37270d] | Released on '2023-11-25'
+[0m[1;34m[SD Prompt Reader] [36mNode version: 1.0.1[0m
+[0m[1;34m[SD Prompt Reader] [36mCore version: 1.3.4[0m
+[34mComfyroll Custom Nodes: [92mLoaded[0m
+[34mDavemane42 Custom Nodes: [92mLoaded[0m
+Searge-SDXL v4.3.1 in C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\SeargeSDXL
+[34mWAS Node Suite: [0mBlenderNeko's Advanced CLIP Text Encode found, attempting to enable `CLIPTextEncode` support.[0m
+[34mWAS Node Suite: [0m`CLIPTextEncode (BlenderNeko Advanced + NSP)` node enabled under `WAS Suite/Conditioning` menu.[0m
+[34mWAS Node Suite: [0mOpenCV Python FFMPEG support is enabled[0m
+[34mWAS Node Suite: [0m`ffmpeg_bin_path` is set to: /path/to/C:\Users\admin\NEW\ffmpeg\ffmpeg-master-latest-win64-gpl\bin[0m
+[34mWAS Node Suite: [0mFinished.[0m [32mLoaded[0m [0m198[0m [32mnodes successfully.[0m
+
+	[3m[93m"Success is not final, failure is not fatal: It is the courage to continue that counts."[0m[3m - Winston Churchill[0m
+
+
+Import times for custom nodes:
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\sdxl_prompt_styler
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\LoadLoraWithTags
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ControlNet-LLLite-ComfyUI
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfy_assemble_tags_node
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\AIGODLIKE-ComfyUI-Translation-main
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_Noise
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUi_PromptStylers
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_ADV_CLIP_emb
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_Cutoff
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\Zho_Main_Nodes_Chinese.py
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\stability-ComfyUI-nodes
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_Preset_Merger
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-post-processing-nodes
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Lora-Auto-Trigger-Words
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_UltimateSDUpscale
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Embedding_Picker
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\efficiency-nodes-comfyui
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Inspire-Pack
+   0.0 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_Dave_CustomNode
+   0.1 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\comfyui-prompt-reader-node
+   0.1 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_Comfyroll_CustomNodes
+   0.1 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-WD14-Tagger
+   0.1 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Custom-Scripts
+   0.3 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager-main
+   0.5 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\SeargeSDXL
+   0.6 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager
+   2.7 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Impact-Pack
+   3.3 seconds: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\was-node-suite-comfyui
+
+Starting server
+
+To see the GUI go to: http://127.0.0.1:8188
+FETCH DATA from: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json
+FETCH DATA from: C:\Users\admin\NEW\new_ComfyUI_windows_portable_nvidia_cu121_or_cpu\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json
+FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+Install custom node 'Recommended Resolution Calculator'
+install: ['https://github.com/marhensa/sdxl-recommended-res-calc']
+Download: git clone 'https://github.com/marhensa/sdxl-recommended-res-calc'
+[!] 
+0it [00:00, ?it/s]100%|██████████| 178.0/178.0 [00:01<00:00, 112.16it/s]
+100%|██████████| 178.0/178.0 [00:01<00:00, 112.16it/s]
+100%|██████████| 96.0/96.0 [00:01<00:00, 54.70it/s]
+100%|██████████| 96.0/96.0 [00:01<00:00, 54.70it/s]
+100%|██████████| 255.0/255.0 [00:04<00:00, 60.35it/s]
+100%|██████████| 255.0/255.0 [00:04<00:00, 60.35it/s]
+100%|██████████| 141.0/141.0 [00:04<00:00, 33.01it/s]
+100%|██████████| 141.0/141.0 [00:04<00:00, 33.01it/s]
+100%|██████████| 141.0/141.0 [00:04<00:00, 28.40it/s]
+Installation was successful.
+After restarting ComfyUI, please refresh the browser.
+FETCH DATA from: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+
+Stopped server
